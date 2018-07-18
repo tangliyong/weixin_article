@@ -1,10 +1,12 @@
 # weixin_article
 基于搜狗微信搜索的微信公众号爬虫
 
-项目简介
+# 项目简介：
+
 基于搜狗微信搜索的微信公众号爬虫 可以抓取指定公众号的文章信息到mysql数据库。对sogo和微信验证码，调用ruokuai接口进行识别。
 
-项目使用
+# 项目使用：
+
 一、使用说明
 1、在mysql数据库中创建数据库，sql语句见gongzhonghao.sql
 
@@ -20,7 +22,8 @@
 
 3、 config.py mysql数据库配置和ruokuai配置
 
-项目依赖于：基于搜狗微信搜索的微信公众号爬虫接口
+# 项目依赖的其他项目
+基于搜狗微信搜索的微信公众号爬虫接口
 https://github.com/Chyroc/WechatSogou
 
 1、安装
@@ -29,5 +32,6 @@ pip install wechatsogou --upgrade
 2、安装WechatSogou要求的包
 https://github.com/Chyroc/WechatSogou/blob/master/requirements.txt
 
+# 参考项目
 
 备注：项目大量参考了wechat_sogou_crawl项目，https://github.com/jaryee/wechat_sogou_crawl
