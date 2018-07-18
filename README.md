@@ -22,7 +22,7 @@
 
 3、 config.py mysql数据库配置和ruokuai配置
 
-# 项目依赖的其他项目
+# 依赖项目
 基于搜狗微信搜索的微信公众号爬虫接口
 https://github.com/Chyroc/WechatSogou
 
@@ -34,4 +34,4 @@ https://github.com/Chyroc/WechatSogou/blob/master/requirements.txt
 
 # 参考项目
 
-备注：项目大量参考了wechat_sogou_crawl项目，https://github.com/jaryee/wechat_sogou_crawl
+项目大量参考了wechat_sogou_crawl项目，https://github.com/jaryee/wechat_sogou_crawl
